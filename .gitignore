@@ -1,0 +1,12 @@
+# Ignore virtual environment
+weather_venv/
+myenv/
+env/
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore VSCode settings
+.vscode/
