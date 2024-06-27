@@ -6,7 +6,8 @@ import requests
 # longitude = "79.3832" # Toronto
 # longitude = "74.0060" # New York
 
-api_key = "5bc30807dab06c3f6c74de972ae17022"
+# YOUR API KEY GOES HERE
+api_key = 0
 
 
 class City:
